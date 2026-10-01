@@ -1,13 +1,13 @@
 # coub-dl
 
-<div align="center">
-    <img src=./logo.png width=400 />
-</div>
-
 [![build](https://github.com/mrcsin/coub-dl/actions/workflows/ci.yml/badge.svg)](https://github.com/mrcsin/coub-dl/actions/workflows/ci.yml)
 [![Coverage Status](https://coveralls.io/repos/github/mrcsin/coub-dl/badge.svg?branch=master)](https://coveralls.io/github/mrcsin/coub-dl?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mrcsin/coub-dl)](https://goreportcard.com/report/github.com/mrcsin/coub-dl)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+<div align="center">
+    <img src=./logo.png width=400 />
+</div>
 
 A small command-line tool to download videos from [coub.com](https://coub.com).
 
