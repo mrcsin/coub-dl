@@ -4,7 +4,7 @@ about: Work that outlives the session
 title: ""
 ---
 
-<!-- Title: the end state, for example "rb5009 has an encrypted backup off the router". -->
+<!-- Title: the end state, for example "the CLI exits non-zero when the config file is missing". -->
 
 <!-- First line: what is wrong or missing, with the key fact. -->
 
