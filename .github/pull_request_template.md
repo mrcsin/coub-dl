@@ -6,4 +6,7 @@
 
 Verified: <!-- the command or check that proves it -->
 
-Closes #<!-- N, or Refs #N for partial work; delete when no issue exists -->
+<!-- Issue link, delete when no issue exists:
+Closes #N   closes the issue on merge.
+Refs #N     partial work, or a devops repo: the issue closes after the live check.
+-->
